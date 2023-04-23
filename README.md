@@ -1,6 +1,6 @@
 `LeetCode Programs in Python`
 
-This is a repository of Python solutions for problems on LeetCode. The solutions are organized by problem number, and each solution includes a detailed explanation of the thought process and algorithm used to solve the problem.
+This is a repository of Python solutions for problems on LeetCode.
 
 `How to Use`
 
@@ -12,7 +12,7 @@ The solutions are designed to be easily readable and modifiable, so feel free to
 
 Contributions are always welcome! If you have a solution for a LeetCode problem that is not yet included in this repository, feel free to submit a pull request with your solution.
 
-Please ensure that your code follows the PEP 8 style guide, and that you include comments to explain your thought process and algorithm.
+Please ensure that your code follows the PEP 8 style guide
 
 `Disclaimer`
 
